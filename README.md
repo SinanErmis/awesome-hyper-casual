@@ -1,3 +1,4 @@
+
 # Awesome Hyper Casual :partying_face:
 This repository contains a curated list of resources, links, assets, projects and more about hyper casual game development. Free assets and resources are prioritized over paid when possible.
 
@@ -32,6 +33,11 @@ First of all, any kind of contribution is highly appreciated. If you want to add
 #### Input
 - [Easy Joystick](https://github.com/herbou/Unity_EasyJoystick)
 - [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631)
+## Ideation
+- [StoreGlide](https://www.instagram.com/storeglide/) - Daily HC game videos on Instagram.
+- [HyperGamer3D](https://www.tiktok.com/@hypergamer3d) - Daily HC game videos on TikTok.
+- [1Dan](https://www.tiktok.com/@1dan.io) - HC content creator and also developer.
+- [Gamer Jasmine](https://www.tiktok.com/@gamerjasmine) - Daily HC game videos on TikTok.
 ## Miscellaneous
 - [ The Metrics Behind Hyper-Casual Games](https://gameanalytics.com/blog/the-metrics-behind-hyper-casual-games-industry-report/) - An industry report by GameAnalytics
 - [How to Create a Low CPI Hyper Casual Video](https://www.youtube.com/watch?v=XrLW9eYBdh8)
