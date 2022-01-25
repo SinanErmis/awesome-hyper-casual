@@ -14,6 +14,7 @@ First of all, any kind of contribution is highly appreciated. If you want to add
 - [ZigZag](https://github.com/shubham-saudolla/ZigZag)
 - [Silly Race](https://github.com/enes-telli/Silly-Race-Replica)
 - [Hole vs Colors](https://github.com/herbou/Unity_HoleVsColors)
+- [Tornado Smash](https://github.com/bariscanyilmaz/tornado-smash)
 #### Original Projects
 - [Snake Runner](https://github.com/Matvei-Fadeev/SnakeRunner)
 #### Project Templates
