@@ -43,5 +43,6 @@ First of all, any kind of contribution is highly appreciated. If you want to add
 ## Miscellaneous
 - [ The Metrics Behind Hyper-Casual Games](https://gameanalytics.com/blog/the-metrics-behind-hyper-casual-games-industry-report/) - An industry report by GameAnalytics
 - [How to Create a Low CPI Hyper Casual Video](https://www.youtube.com/watch?v=XrLW9eYBdh8)
+- [PixelArtHive Pixel Art Upscaler](https://pixelarthive.com/pixel-art-upscaler) - Free browser tool for resizing existing pixel art and sprites, with local image processing.
 #### Code Sample Repo
 - [UnityCommunity/UnityLibrary](https://github.com/UnityCommunity/UnityLibrary/)
